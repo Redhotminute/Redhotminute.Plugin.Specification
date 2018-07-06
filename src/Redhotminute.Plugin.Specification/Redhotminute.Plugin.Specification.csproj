@@ -2,6 +2,17 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard1.0</TargetFramework>
+    <Authors>jacobduijzer</Authors>
+    <Company>Redhotminute</Company>
+    <Product>Redhotminute.Plugin.Specification</Product>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Summary>Basic plugin for using the Specification Pattern with Linq</Summary>
+    <Description>This is a simple implementation of the Specification pattern in combination with Linq.</Description>
+    <PackageProjectUrl>https://github.com/Redhotminute/Redhotminute.Plugin.Specification</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/Redhotminute/Redhotminute.Plugin.Specification/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageTags>Specification, Speficications, Specification pattern, Linq</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <RepositoryUrl>https://github.com/Redhotminute/Redhotminute.Plugin.Specification</RepositoryUrl>
   </PropertyGroup>
 
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'UnitTest|AnyCPU' ">
