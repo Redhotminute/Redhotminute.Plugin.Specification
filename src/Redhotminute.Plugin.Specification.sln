@@ -5,7 +5,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redhotminute.Plugin.Specifi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E84ADC02-8DC0-46C7-8770-D56D19545303}"
 	ProjectSection(SolutionItems) = preProject
-		README.md = README.md
+		..\README.md = ..\README.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redhotminute.Plugin.Specification.Tests", "Redhotminute.Plugin.Specification.Tests\Redhotminute.Plugin.Specification.Tests.csproj", "{2E68C729-B2E4-4743-809E-5FA57FE896FB}"
