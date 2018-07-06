@@ -1,0 +1,1 @@
+# Redhotminute.Plugin.Specification
