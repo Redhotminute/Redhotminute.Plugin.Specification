@@ -1,5 +1,9 @@
 # Redhotminute.Plugin.Specification
 
+
+
+[![Nuget status](https://buildstats.info/nuget/Redhotminute.Plugin.Specification)](https://www.nuget.org/packages/Redhotminute.Plugin.Specification/)
+
 Package based on the [Specifications pattern](https://en.wikipedia.org/wiki/Specification_pattern). I did not implement all methods since I haven't used them. 
 
 # Get started
