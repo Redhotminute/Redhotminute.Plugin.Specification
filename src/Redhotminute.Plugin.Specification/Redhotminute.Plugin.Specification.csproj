@@ -10,7 +10,7 @@
     <Description>This is a simple implementation of the Specification pattern in combination with Linq.</Description>
     <PackageProjectUrl>https://github.com/Redhotminute/Redhotminute.Plugin.Specification</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/Redhotminute/Redhotminute.Plugin.Specification/blob/master/LICENSE</PackageLicenseUrl>
-    <PackageIconUrl>https://github.com/Redhotminute/Redhotminute.Plugin.Specification/tree/master/artwork/icon.png</PackageIconUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/Redhotminute/Redhotminute.Plugin.Specification/develop/artwork/icon.png</PackageIconUrl>
     <PackageTags>Specification, Speficications, Specification pattern, Linq</PackageTags>
     <RepositoryUrl>https://github.com/Redhotminute/Redhotminute.Plugin.Specification</RepositoryUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
